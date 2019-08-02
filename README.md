@@ -13,5 +13,5 @@ Scapy (https://scapy.net/)
 
 *This tool was handed over during the corporate takeover by @notdan. It was never published, but we believe it's worth publishing all of the tools created internally. The publishing of this tool was NOT a decision made nor endorsed by @notdan. This fact must be said for legal and other reasons. 
 
-All Rights Transferred And Retained By PACKET.TEL LLC July 14 2019 forward.
+All Rights Transferred And Retained By PACKET.TEL LLC going forward.
 
